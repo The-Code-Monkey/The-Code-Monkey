@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Andy, a Web & Software developer from the UK, specialising in ReactJS/NextJS
+
+I'm currently working on my own Theming, UI libraries as well as a fully ready setup development environment.
+
 <!--
 **The-Code-Monkey/The-Code-Monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
