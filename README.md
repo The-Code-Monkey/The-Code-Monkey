@@ -4,6 +4,9 @@ I'm Andy, a Web & Software developer from the UK, specialising in ReactJS/NextJS
 
 I'm currently working on my own Theming, UI libraries as well as a fully ready setup development environment.
 
+[![The Code Monkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-code-monkey)](https://github.com/the-code-monkey/github-readme-stats)
+
+
 <!--
 **The-Code-Monkey/The-Code-Monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
