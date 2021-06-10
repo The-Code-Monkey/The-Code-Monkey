@@ -5,7 +5,7 @@ I'm Andy, a Web & Software developer from the UK, specialising in ReactJS/NextJS
 I'm currently working on my own Theming, UI libraries as well as a fully ready setup development environment.
 
 [![The Code Monkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-code-monkey&theme=tokyonight)](https://github.com/the-code-monkey/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-monkey&theme=tokyonight)](https://github.com/the-code-monkey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-monkey&theme=tokyonight&hide=java,css,scss)](https://github.com/the-code-monkey/github-readme-stats)
 
 
 <!--
